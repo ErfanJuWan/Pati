@@ -64,7 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="tidak ada"
+            android:text="tidak ada yahhh"
             android:drawableStart="@drawable/telp"
             android:drawablePadding="20dp"
             android:textAlignment="textStart"
